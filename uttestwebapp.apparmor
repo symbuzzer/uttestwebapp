@@ -1,10 +1,10 @@
 {
     "policy_groups": [
         "webview",
-        "networking"
+        "networking",
         "audio",
         "video",
-        "keep-display-on",
+        "keep-display-on"
     ],
     "policy_version": 20.04
 }
