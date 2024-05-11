@@ -1,5 +1,8 @@
+## v1.0.5
+- Deleted qml/config.js
+
 ## v1.0.4
-- Enable skip_review from clickable.json
+- Enabled skip_review from clickable.json
 - Removed unnecessary lines from pot file
 
 ## v1.0.3
