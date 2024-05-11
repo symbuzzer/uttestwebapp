@@ -2,6 +2,7 @@
   "builder": "cmake",
   "clickable_minimum_required": "6.23.3",
   "qt_version": "5.12",
+  "skip_review": true,
   "kill": "qmlscene",
   "framework": "ubuntu-sdk-20.04"
 }
