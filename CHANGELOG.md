@@ -1,5 +1,6 @@
 ## v1.0.4
 - Enable skip_review from clickable.json
+- Removed unnecessary lines from pot file
 
 ## v1.0.3
 - Edited clickable.yml github action for running latest clickable
